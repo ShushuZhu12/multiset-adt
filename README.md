@@ -49,10 +49,10 @@ https://github.com/CSC207-2025S-UofT/multiset-adt
 
 Note: this can be a different team that you will work with for the rest of the term (Project), but it's a great opportunity for you to find some potential team members!
 
-- [ ] Each other team member should then make a fork of that repo (or the repository owner can add the others
+- [X] Each other team member should then make a fork of that repo (or the repository owner can add the others
   as collaborators). This is so you have a shared remote repo to which your group can all contribute.
 
-- [ ] Get a local copy of your remote repo.
+- [X] Get a local copy of your remote repo.
   You can do this by either method from last week: git clone <url>
   or creating a new project from version control in IntelliJ (recommended).
 
